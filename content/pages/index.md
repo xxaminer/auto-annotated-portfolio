@@ -4,7 +4,7 @@ title: Home
 colors: colors-e
 backgroundImage:
   type: BackgroundImage
-  url: /images/post-1.jpg
+  url: /images/post-3.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
