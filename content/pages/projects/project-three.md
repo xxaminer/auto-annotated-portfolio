@@ -11,7 +11,7 @@ description: >-
   .                                                              
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/header-fiche-presta-fiverr.webp
   altText: Project thumbnail image
 media:
   type: ImageBlock
