@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Blog
+title: Mes ceritificats
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
