@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Blog
+title: Cybersécurité certificat
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
