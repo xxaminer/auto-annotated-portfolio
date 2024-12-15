@@ -13,11 +13,30 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      **Amine Argab**
+
+      Étudiant en première année du cycle ingénieur en systèmes informatiques à
+      l’EIDD Paris, je suis un passionné de technologies, d’analyse stratégique
+      et de résolution de problèmes complexes. Mon parcours est marqué par des
+      expériences académiques solides, des certifications reconnues en
+      cybersécurité et en trading, ainsi que des projets techniques ambitieux.
+
+      ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+      Avec une expertise dans des domaines tels que le développement web,
+      l’automatisation, la cybersécurité et l’algorithmique de trading, je me
+      distingue par ma polyvalence et ma capacité à m’adapter rapidement à de
+      nouveaux défis. Mon esprit d'initiative, ma curiosité et mon ouverture
+      d'esprit me permettent de mener à bien des projets innovants.
+
+
+      En dehors du monde technique, je m’investis dans des activités créatives
+      comme le design graphique et la photographie, et je trouve un équilibre
+      dans mes passions pour le sport et les voyages. Toujours motivé à
+      apprendre et à évoluer, je suis déterminé à repousser mes limites et à
+      apporter une valeur ajoutée dans chaque projet que j'entreprends.
     media:
       type: ImageBlock
       url: /images/about.jpg
