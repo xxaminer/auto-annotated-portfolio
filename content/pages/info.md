@@ -241,6 +241,9 @@ sections:
         label: C++
       - type: Label
         label: css
+      - type: Label
+        label: SQL
+        url: ''
   - type: DividerSection
     styles:
       self:
