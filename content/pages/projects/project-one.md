@@ -12,7 +12,7 @@ description: >-
   grâce à des capteurs intelligents et des modes d'économie d'énergie.    
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/capteur_lumiere.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
