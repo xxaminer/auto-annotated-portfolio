@@ -1,11 +1,14 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Freelancer sur FIVERR
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Conception graphique et design :  Réalisations sur Fiverr (logos,
+  présentations PowerPoint pour entreprises).                             
+  Outils : Photoshop, Illustrator, Canva, lightmotion , adobe premiere pro
+  .                                                              
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg

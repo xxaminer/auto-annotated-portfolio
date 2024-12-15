@@ -1,10 +1,10 @@
 ---
 type: PageLayout
 title: Home
-colors: colors-a
+colors: colors-e
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/post-3.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -14,12 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Élève ingénieur en informatique passionné par la cybersécurité, le
+      développement web et le trading algorithmique.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      je partage tout cela avec vous pour vous impressionner par tout le travail
+      acharné que j'ai accompli au cours des dernières années. Une fois que vous
+      serez impressionné, vous pourrez continuer à faire défiler pour découvrir
+      plus de détails et de références à mon sujet.
     styles:
       self:
         height: auto
@@ -47,12 +48,13 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: Voir tous les projets
         url: /projects
     showDate: false
     showDescription: true
@@ -84,7 +86,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -97,8 +99,6 @@ sections:
         url: /blog
     posts:
       - content/pages/blog/post-six.md
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true

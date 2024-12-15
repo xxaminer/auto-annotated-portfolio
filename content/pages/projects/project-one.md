@@ -1,11 +1,15 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Système d'éclairage intelligent pour les cyclistes
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Concevoir un système d’éclairage pour vélos capable de :     S'adapter
+  automatiquement à l'environnement (intensité lumineuse en fonction de la
+  luminosité ambiante).           Signaler les intentions du cycliste
+  (clignotants, feux stop).                           Optimiser l'autonomie
+  grâce à des capteurs intelligents et des modes d'économie d'énergie.    
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
