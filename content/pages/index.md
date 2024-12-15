@@ -47,6 +47,11 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >
+      je partage tout cela avec vous pour vous impressionner par tout le travail
+      acharné que j'ai accompli au cours des dernières années. Une fois que vous
+      serez impressionné, vous pourrez continuer à faire défiler pour découvrir
+      plus de détails et de références à mon sujet.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
