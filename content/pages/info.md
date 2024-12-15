@@ -253,6 +253,9 @@ sections:
       - type: Label
         label: SQL
         url: ''
+      - type: Label
+        label: 'Maitrise de stratégie technique : SMC , PRICE ACTION , ICT .'
+        url: ''
   - type: DividerSection
     styles:
       self:
