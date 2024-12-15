@@ -248,6 +248,9 @@ sections:
         label: OCTAVE
         url: ''
       - type: Label
+        label: LTspice
+        url: ''
+      - type: Label
         label: SQL
         url: ''
   - type: DividerSection
