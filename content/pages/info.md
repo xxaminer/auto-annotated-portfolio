@@ -236,7 +236,7 @@ sections:
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: wordpress
       - type: Label
         label: C++
       - type: Label
