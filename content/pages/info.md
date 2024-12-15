@@ -245,6 +245,9 @@ sections:
         label: MATLAB
         url: ''
       - type: Label
+        label: OCTAVE
+        url: ''
+      - type: Label
         label: SQL
         url: ''
   - type: DividerSection
