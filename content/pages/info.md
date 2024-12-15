@@ -230,7 +230,7 @@ sections:
       - type: Label
         label: Adobe photoshop
       - type: Label
-        label: a
+        label: Adobe illustrator
       - type: Label
         label: HTML
       - type: Label
