@@ -292,26 +292,21 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          **Maintenant**
 
-          * freelance @freelance.me
+          *   freelancer sur fiverr
 
-          **2018-2021**
+          **2022-2024**
 
-          * fullstack at this startup
+          *   Chef d'equipe à Mcdonald's
 
-          **2015**
+          **2021** 
 
-          * senior front-end at this place
+          *   Stage dévelopeur web chez AT place  
 
-          **2013**
 
-          * intern developer at a big company
 
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
