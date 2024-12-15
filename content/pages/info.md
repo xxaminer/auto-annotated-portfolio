@@ -16,11 +16,13 @@ sections:
     text: >
       ### **Amine Argab**
 
-      Étudiant en première année du cycle ingénieur en systèmes informatiques à
-      l’EIDD Paris, je suis un passionné de technologies, d’analyse stratégique
-      et de résolution de problèmes complexes. Mon parcours est marqué par des
-      expériences académiques solides, des certifications reconnues en
-      cybersécurité et en trading, ainsi que des projets techniques ambitieux.
+
+      ***Étudiant en première année du cycle ingénieur en systèmes informatiques
+      à l’EIDD Paris, je suis un passionné de technologies, d’analyse
+      stratégique et de résolution de problèmes complexes. Mon parcours est
+      marqué par des expériences académiques solides, des certifications
+      reconnues en cybersécurité et en trading, ainsi que des projets techniques
+      ambitieux.***
 
 
       Avec une expertise dans des domaines tels que le développement web,
