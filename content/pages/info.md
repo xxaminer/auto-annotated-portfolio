@@ -317,18 +317,33 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **2021-2022**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   1er année cycle d'ingénieur - spécialité systèmes informatiques
+          embarqués
 
-          * react certificate somewhere
+          *   EIDD PARIS
 
-          **2011**
 
-          * my highschool
+          **2022-2024**
+
+
+          *   CPGE PTSI-PSI 
+
+          *   Lycée GUSTAVE EIFFEL - DIJON 
+
+
+          **2021-2022**
+
+
+          *   2 éme année baccalauréat spé maths - physique chimie 
+
+          *   Mention : très bien 
+
+          *   Lycée BENNIS TERRAB - MAROC
+
         styles:
           self:
             textAlign: left
