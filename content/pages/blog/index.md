@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Cybersécurité certificat
+title: Mes cerificats
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
