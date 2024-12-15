@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Mes cerificats
+title: Mes ceritificats
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
