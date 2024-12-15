@@ -230,7 +230,7 @@ sections:
       - type: Label
         label: Adobe photoshop
       - type: Label
-        label: Microsoft Office
+        label: a
       - type: Label
         label: HTML
       - type: Label
