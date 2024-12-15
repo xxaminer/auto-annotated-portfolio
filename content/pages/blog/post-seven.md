@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'Cyber sécurité certificat '
+title: Certification en Cybersécurité et Ethical Hacking
 colors: colors-a
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
