@@ -234,7 +234,7 @@ sections:
       - type: Label
         label: HTML
       - type: Label
-        label: Netlify
+        label: Photographie
       - type: Label
         label: wordpress
       - type: Label
