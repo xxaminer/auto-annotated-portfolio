@@ -17,9 +17,10 @@ sections:
       Élève ingénieur en informatique passionné par la cybersécurité, le
       développement web et le trading algorithmique.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      je partage tout cela avec vous pour vous impressionner par tout le travail
+      acharné que j'ai accompli au cours des dernières années. Une fois que vous
+      serez impressionné, vous pourrez continuer à faire défiler pour découvrir
+      plus de détails et de références à mon sujet.
     styles:
       self:
         height: auto
