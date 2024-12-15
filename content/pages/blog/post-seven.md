@@ -2,7 +2,7 @@
 type: PostLayout
 title: Certification en Cybersécurité et Ethical Hacking
 colors: colors-a
-date: '2024-01-09'
+date: '2024-01-23'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
