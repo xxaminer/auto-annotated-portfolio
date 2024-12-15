@@ -5,9 +5,9 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  Conception graphique et design :Réalisations sur Fiverr (logos, présentations
+  Conception graphique et design : Réalisations sur Fiverr (logos, présentations
   PowerPoint pour entreprises).                              Outils : Photoshop,
-  Illustrator, Canva.           
+  Illustrator, Canva.                                
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
