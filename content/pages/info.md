@@ -13,11 +13,30 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      ### **Amine Argab**
+
+
+      ***Étudiant en première année du cycle ingénieur en systèmes informatiques
+      à l’EIDD Paris, je suis un passionné de technologies, d’analyse
+      stratégique et de résolution de problèmes complexes. Mon parcours est
+      marqué par des expériences académiques solides, des certifications
+      reconnues en cybersécurité et en trading, ainsi que des projets techniques
+      ambitieux.***
+
+
+      Avec une expertise dans des domaines tels que le développement web,
+      l’automatisation, la cybersécurité et l’algorithmique de trading, je me
+      distingue par ma polyvalence et ma capacité à m’adapter rapidement à de
+      nouveaux défis. Mon esprit d'initiative, ma curiosité et mon ouverture
+      d'esprit me permettent de mener à bien des projets innovants.
+
+
+      En dehors du monde technique, je m’investis dans des activités créatives
+      comme le design graphique et la photographie, et je trouve un équilibre
+      dans mes passions pour le sport et les voyages. Toujours motivé à
+      apprendre et à évoluer, je suis déterminé à repousser mes limites et à
+      apporter une valeur ajoutée dans chaque projet que j'entreprends.
     media:
       type: ImageBlock
       url: /images/about.jpg
@@ -58,53 +77,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - type: DividerSection
     styles:
       self:
@@ -204,24 +176,39 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: 'Skills:'
+    subtitle: 'Compétences :'
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
       - type: Label
-        label: React
+        label: Adobe photoshop
       - type: Label
-        label: Microsoft Office
+        label: Adobe illustrator
       - type: Label
-        label: Next.js
+        label: HTML
       - type: Label
-        label: Netlify
+        label: Photographie
       - type: Label
-        label: Pancakes
+        label: wordpress
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: css
+      - type: Label
+        label: MATLAB
+        url: ''
+      - type: Label
+        label: OCTAVE
+        url: ''
+      - type: Label
+        label: LTspice
+        url: ''
+      - type: Label
+        label: SQL
+        url: ''
+      - type: Label
+        label: 'Maitrise de stratégie technique : SMC , PRICE ACTION , ICT .'
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -238,8 +225,9 @@ sections:
     variant: variant-a
     subtitle: 'Contact:'
     colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+    text: |+
+      [argabamine6@gmail.com](mailto:thisismyemail.@myemail.me)
+
   - type: DividerSection
     styles:
       self:
@@ -257,26 +245,21 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: |+
+          **Maintenant**
 
-          * freelance @freelance.me
+          *   freelancer sur fiverr
 
-          **2018-2021**
+          **2022-2024**
 
-          * fullstack at this startup
+          *   Chef d'equipe à Mcdonald's
 
-          **2015**
+          **2021** 
 
-          * senior front-end at this place
+          *   Stage dévelopeur web chez AT place  
 
-          **2013**
 
-          * intern developer at a big company
 
-          **2011**
-
-          * flipping burgers
         styles:
           self:
             textAlign: left
@@ -287,18 +270,33 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **2021-2022**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *   1er année cycle d'ingénieur - spécialité systèmes informatiques
+          embarqués
 
-          * react certificate somewhere
+          *   EIDD PARIS
 
-          **2011**
 
-          * my highschool
+          **2022-2024**
+
+
+          *   CPGE PTSI-PSI 
+
+          *   Lycée GUSTAVE EIFFEL - DIJON 
+
+
+          **2021-2022**
+
+
+          *   2 éme année baccalauréat spé maths - physique chimie 
+
+          *   Mention : très bien 
+
+          *   Lycée BENNIS TERRAB - MAROC
+
         styles:
           self:
             textAlign: left
@@ -345,70 +343,4 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: ContactSection
-    backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
-    colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
-        padding:
-          - pt-12
-          - pb-12
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
 ---

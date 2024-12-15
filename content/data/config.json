@@ -10,17 +10,17 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "À PROPOS DE MOI",
                 "url": "/info"
             },
             {
                 "type": "Link",
-                "label": "Projects",
+                "label": "Projets",
                 "url": "/projects"
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "Mes certifications",
                 "url": "/blog"
             }
         ],
