@@ -136,6 +136,45 @@ sections:
       - type: Label
         label: 'Maitrise de stratégie technique : SMC , PRICE ACTION , ICT .'
         url: ''
+  - type: TextSection
+    colors: colors-f
+    variant: variant-b
+    title: '-------'
+    subtitle: Pourquoi je suis different ?
+    text: >
+
+
+      Je suis une personne polyvalente avec un large éventail de compétences. En
+      tant que **photographe automobile**, je maîtrise l'art de capturer des
+      images dynamiques et percutantes, en mettant l'accent sur les détails et
+      l'esthétique des véhicules. J'ai également une expérience en tant que
+      **designer sur Fiverr**, où je crée des designs uniques pour divers
+      clients, en mettant ma créativité au service de leurs besoins visuels. De
+      plus, je suis un **trader expérimenté sur les marchés financiers**, en
+      particulier sur le **Forex**, où j'analyse les tendances du marché et
+      prends des décisions éclairées pour optimiser les investissements. Enfin,
+      j'ai créé ma propre **marque de pochettes de téléphone personnalisées**,
+      en gérant tout le processus de conception, de production et de vente, ce
+      qui m'a permis de développer des compétences en entrepreneuriat et en
+      gestion de projet. Cette diversité d'expériences me permet d'être à l'aise
+      dans différents domaines et de toujours chercher à apprendre et à évoluer.
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
   - type: FeaturedItemsSection
     colors: colors-f
     items:
@@ -197,45 +236,6 @@ sections:
       subtitle:
         textAlign: left
     subtitle: mes réseaux sociaux
-  - type: TextSection
-    colors: colors-f
-    variant: variant-b
-    title: '-------'
-    subtitle: Pourquoi je suis different ?
-    text: >
-
-
-      Je suis une personne polyvalente avec un large éventail de compétences. En
-      tant que **photographe automobile**, je maîtrise l'art de capturer des
-      images dynamiques et percutantes, en mettant l'accent sur les détails et
-      l'esthétique des véhicules. J'ai également une expérience en tant que
-      **designer sur Fiverr**, où je crée des designs uniques pour divers
-      clients, en mettant ma créativité au service de leurs besoins visuels. De
-      plus, je suis un **trader expérimenté sur les marchés financiers**, en
-      particulier sur le **Forex**, où j'analyse les tendances du marché et
-      prends des décisions éclairées pour optimiser les investissements. Enfin,
-      j'ai créé ma propre **marque de pochettes de téléphone personnalisées**,
-      en gérant tout le processus de conception, de production et de vente, ce
-      qui m'a permis de développer des compétences en entrepreneuriat et en
-      gestion de projet. Cette diversité d'expériences me permet d'être à l'aise
-      dans différents domaines et de toujours chercher à apprendre et à évoluer.
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
   - type: DividerSection
     styles:
       self:
