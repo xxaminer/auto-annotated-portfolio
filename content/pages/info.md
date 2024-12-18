@@ -112,7 +112,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/amine-argab-3426b7225/'
         styles:
           self:
             textAlign: left
