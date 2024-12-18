@@ -93,7 +93,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-addTitleSuffix: false
+addTitleSuffix: true
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
