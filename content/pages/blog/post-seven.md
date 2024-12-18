@@ -4,7 +4,7 @@ title: Certification en Cybersécurité et Ethical Hacking
 colors: colors-a
 date: '2024-01-23'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/WhatsApp Image 2024-12-15 at 14.47.49.jpeg
@@ -17,6 +17,36 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 20
 bottomSections:
+  - type: MediaGallerySection
+    title: 'Certificat :'
+    subtitle: ':)'
+    images:
+      - type: ImageBlock
+        url: /images/WhatsApp Image 2024-12-15 at 14.47.49.jpeg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-a
+    spacing: 16
+    columns: 1
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - elementId: ''
     type: RecentPostsSection
     colors: colors-f
@@ -49,65 +79,6 @@ bottomSections:
         justifyContent: center
     showFeaturedImage: true
     showReadMoreLink: true
-  - type: ContactSection
-    backgroundSize: full
-    title: Stay up-to-date with my words ✍️
-    colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
 ---
 Cette certification valide mes compétences en cybersécurité et mes capacités à identifier, analyser et corriger les vulnérabilités des systèmes informatiques.
 
