@@ -234,16 +234,28 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: |+
-          **Maintenant**
+          **Maintenant : FIVERR ET FUNDEDNEXT**
 
-          *   freelancer sur Fiverr
+          *   freelancer sur FIVERR
           *   trader dans les marchés financiers
 
-          **2022-2024**
+          **Juillet 2024 : MAISON OMANI** 
+
+          *   Création d'un shop web sur SHOPIFY 
+
+          *   Gestion de stock 
+
+          *   installation du système de caisse 
+
+          **2022-2024 : MCDONALD'S**
 
           *   Chef d'equipe à Mcdonald's
 
-          **2021**
+          **2021-2022 : AKCOMPANY** 
+
+          *   fondation d'une marque des pochettes de téléphones personnalisés .
+
+          **2021 : AT PLACE**
 
           *   Stage dévelopeur web chez AT place
 
