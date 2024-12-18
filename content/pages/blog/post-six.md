@@ -20,7 +20,7 @@ bottomSections:
         caption: Image one caption
         elementId: ''
     colors: colors-a
-    spacing: 73
+    spacing: 160
     columns: 2
     aspectRatio: '4:3'
     showCaption: false
