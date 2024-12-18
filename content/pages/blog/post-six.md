@@ -11,7 +11,7 @@ featuredImage:
   altText: Post thumbnail image
 bottomSections:
   - type: MediaGallerySection
-    title: Gallery
+    title: 'Certificat : '
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
