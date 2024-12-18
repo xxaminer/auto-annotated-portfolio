@@ -295,7 +295,7 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: 'Parcours académique :'
         text: >+
           **2021-2022**
 
