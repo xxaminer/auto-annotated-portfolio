@@ -2,7 +2,7 @@
 type: PostLayout
 title: Certification en Compétition de Trading
 colors: colors-a
-date: '2024-12-05'
+date: '2024-02-05'
 author: content/data/team/doris-soto.json
 excerpt: ''
 featuredImage:
