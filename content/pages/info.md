@@ -149,7 +149,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: mes reseaux sociaux
+    subtitle: mes réseaux sociaux
   - type: DividerSection
     styles:
       self:
