@@ -103,4 +103,5 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 80
 metaTitle: Réseau
+metaDescription: Réseau
 ---
