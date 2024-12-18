@@ -13,6 +13,6 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/WhatsApp Image 2024-12-15 at 15.01.04.jpeg
   altText: Project image
 ---
