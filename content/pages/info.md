@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: À PROPOS DE MOI
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
@@ -39,7 +39,7 @@ sections:
       apporter une valeur ajoutée dans chaque projet que j'entreprends.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/WhatsApp Image 2024-12-18 at 16.01.08.jpeg
       altText: Hero image
     styles:
       self:
@@ -77,91 +77,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 0
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    subtitle: 'You can find me here:'
   - type: DividerSection
     styles:
       self:
@@ -209,6 +124,106 @@ sections:
       - type: Label
         label: 'Maitrise de stratégie technique : SMC , PRICE ACTION , ICT .'
         url: ''
+  - type: TextSection
+    colors: colors-f
+    variant: variant-b
+    title: '-------'
+    subtitle: Pourquoi je suis different ?
+    text: >
+
+
+      Je suis une personne polyvalente avec un large éventail de compétences. En
+      tant que **photographe automobile**, je maîtrise l'art de capturer des
+      images dynamiques et percutantes, en mettant l'accent sur les détails et
+      l'esthétique des véhicules. J'ai également une expérience en tant que
+      **designer sur Fiverr**, où je crée des designs uniques pour divers
+      clients, en mettant ma créativité au service de leurs besoins visuels. De
+      plus, je suis un **trader expérimenté sur les marchés financiers**, en
+      particulier sur le **Forex**, où j'analyse les tendances du marché et
+      prends des décisions éclairées pour optimiser les investissements. Enfin,
+      j'ai créé ma propre **marque de pochettes de téléphone personnalisées**,
+      en gérant tout le processus de conception, de production et de vente, ce
+      qui m'a permis de développer des compétences en entrepreneuriat et en
+      gestion de projet. Cette diversité d'expériences me permet d'être à l'aise
+      dans différents domaines et de toujours chercher à apprendre et à évoluer.
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+  - type: FeaturedItemsSection
+    colors: colors-f
+    items:
+      - type: FeaturedItem
+        actions: []
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions: []
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: LinkedIn
+            url: 'https://www.linkedin.com/in/amine-argab-3426b7225/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions: []
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions: []
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: Instagram
+            url: 'https://www.instagram.com/aaaaaaamineeeeeee/'
+        styles:
+          self:
+            textAlign: left
+    columns: 3
+    spacingX: 120
+    spacingY: 0
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+    subtitle: mes réseaux sociaux
   - type: DividerSection
     styles:
       self:
@@ -244,21 +259,32 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
+        subtitle: 'Experiences :'
         text: |+
-          **Maintenant**
+          **Maintenant : FIVERR ET FUNDEDNEXT**
 
-          *   freelancer sur fiverr
+          *   freelancer sur FIVERR
+          *   trader dans les marchés financiers
 
-          **2022-2024**
+          **Juillet 2024 : MAISON OMANI** 
+
+          *   Création d'un shop web sur SHOPIFY 
+
+          *   Gestion de stock 
+
+          *   installation du système de caisse 
+
+          **2022-2024 : MCDONALD'S**
 
           *   Chef d'equipe à Mcdonald's
 
-          **2021** 
+          **2021-2022 : AKCOMPANY** 
 
-          *   Stage dévelopeur web chez AT place  
+          *   fondation d'une marque des pochettes de téléphones personnalisés .
 
+          **2021 : AT PLACE**
 
+          *   Stage dévelopeur web chez AT place
 
         styles:
           self:
@@ -269,7 +295,7 @@ sections:
               - pb-0
               - pr-0
       - type: FeaturedItem
-        subtitle: 'Education:'
+        subtitle: 'Parcours académique :'
         text: >+
           **2021-2022**
 
