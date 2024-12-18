@@ -259,7 +259,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        subtitle: 'Experience:'
+        subtitle: 'Experiences :'
         text: |+
           **Maintenant : FIVERR ET FUNDEDNEXT**
 
