@@ -22,7 +22,7 @@ bottomSections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/WhatsApp Image 2024-12-15 at 14.47.49.jpeg
         altText: Image one
         caption: Image one caption
         elementId: ''
