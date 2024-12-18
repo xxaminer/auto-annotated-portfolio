@@ -17,28 +17,29 @@ sections:
 
       Le Software Engineer a expliqué que son rôle principal consiste à
       concevoir, développer et maintenir des solutions logicielles adaptées aux
-      besoins des clients. Il a mentionné qu’il travaille principalement dans un
-      environnement agile, en collaboration avec des équipes de développeurs, de
-      chefs de projet et parfois des experts métier. L'accent est mis sur la
-      performance, la scalabilité et la sécurité des applications.
+      besoins des clients. Elle a mentionné qu’elle travaille principalement
+      dans un environnement agile, en collaboration avec des équipes de
+      développeurs, de chefs de projet et parfois des experts métier. L'accent
+      est mis sur la performance, la scalabilité et la sécurité des
+      applications.
 
 
       ### 2. **Technologies et outils utilisés**
 
 
-      Il utilise une variété de technologies, notamment Java, Python et
-      JavaScript, en fonction des besoins du projet. Il travaille aussi avec des
-      outils comme Git pour le versioning, Jira pour la gestion des projets, et
-      Jenkins pour l'intégration continue. Les bases de données qu’il utilise
-      sont principalement SQL et NoSQL, et il a également une expérience avec
-      les architectures microservices.
+      Elle utilise une variété de technologies, notamment Java, Python et
+      JavaScript, en fonction des besoins du projet. Elle travaille aussi avec
+      des outils comme Git pour le versioning, Jira pour la gestion des projets,
+      et Jenkins pour l'intégration continue. Les bases de données qu’elle
+      utilise sont principalement SQL et NoSQL, et elle a également une
+      expérience avec les architectures microservices.
 
 
       ### 3. **Méthodologie de travail**
 
 
-      Il a expliqué que l'équipe suit une méthodologie agile avec des sprints de
-      2 semaines. Cela permet de livrer des fonctionnalités rapidement,
+      Elle a expliqué que l'équipe suit une méthodologie agile avec des sprints
+      de 2 semaines. Cela permet de livrer des fonctionnalités rapidement,
       d’obtenir des retours des clients et d’ajuster les priorités.
       L’intégration continue et le déploiement continu (CI/CD) sont au cœur de
       leur processus, garantissant des mises à jour régulières et une gestion
@@ -48,8 +49,8 @@ sections:
       ### 4. **Défis et défis du métier**
 
 
-      Le principal défi auquel il fait face est la gestion des contraintes de
-      performance tout en garantissant une bonne expérience utilisateur. Il a
+      Le principal défi auquel elle fait face est la gestion des contraintes de
+      performance tout en garantissant une bonne expérience utilisateur. Elle a
       aussi mentionné la nécessité de maintenir un bon équilibre entre la
       qualité du code et la rapidité de livraison. Un autre défi important est
       la communication avec les équipes non techniques pour s'assurer que les
@@ -59,10 +60,10 @@ sections:
       ### 5. **Conseils pour les aspirants Software Engineers**
 
 
-      Il a recommandé aux aspirants Software Engineers de se concentrer sur la
+      Elle a recommandé aux aspirants Software Engineers de se concentrer sur la
       compréhension des concepts fondamentaux de l'informatique et de la
       programmation. La curiosité et la capacité à apprendre constamment sont
-      des qualités essentielles dans ce métier en constante évolution. Il a
+      des qualités essentielles dans ce métier en constante évolution. Elle a
       également souligné l'importance de la pratique, de travailler sur des
       projets personnels et de contribuer à des projets open-source.
 
