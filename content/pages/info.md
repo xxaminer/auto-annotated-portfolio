@@ -101,6 +101,41 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: LabelsSection
+    colors: colors-f
+    subtitle: 'Compétences :'
+    items:
+      - type: Label
+        label: 'WEB 1, 2, 3'
+      - type: Label
+        label: Adobe photoshop
+      - type: Label
+        label: Adobe illustrator
+      - type: Label
+        label: HTML
+      - type: Label
+        label: Photographie
+      - type: Label
+        label: wordpress
+      - type: Label
+        label: C++
+      - type: Label
+        label: css
+      - type: Label
+        label: MATLAB
+        url: ''
+      - type: Label
+        label: OCTAVE
+        url: ''
+      - type: Label
+        label: LTspice
+        url: ''
+      - type: Label
+        label: SQL
+        url: ''
+      - type: Label
+        label: 'Maitrise de stratégie technique : SMC , PRICE ACTION , ICT .'
+        url: ''
   - type: FeaturedItemsSection
     colors: colors-f
     items:
@@ -162,41 +197,6 @@ sections:
       subtitle:
         textAlign: left
     subtitle: mes réseaux sociaux
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Compétences :'
-    items:
-      - type: Label
-        label: 'WEB 1, 2, 3'
-      - type: Label
-        label: Adobe photoshop
-      - type: Label
-        label: Adobe illustrator
-      - type: Label
-        label: HTML
-      - type: Label
-        label: Photographie
-      - type: Label
-        label: wordpress
-      - type: Label
-        label: C++
-      - type: Label
-        label: css
-      - type: Label
-        label: MATLAB
-        url: ''
-      - type: Label
-        label: OCTAVE
-        url: ''
-      - type: Label
-        label: LTspice
-        url: ''
-      - type: Label
-        label: SQL
-        url: ''
-      - type: Label
-        label: 'Maitrise de stratégie technique : SMC , PRICE ACTION , ICT .'
-        url: ''
   - type: TextSection
     colors: colors-f
     variant: variant-b
