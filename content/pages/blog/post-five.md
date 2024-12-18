@@ -12,7 +12,7 @@ featuredImage:
 bottomSections:
   - type: MediaGallerySection
     title: 'Certfificat :'
-    subtitle: This is the subtitle
+    subtitle: ':)'
     images:
       - type: ImageBlock
         url: /images/WhatsApp Image 2024-12-15 at 15.09.54.jpeg
