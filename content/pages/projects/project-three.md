@@ -13,4 +13,10 @@ featuredImage:
   type: ImageBlock
   url: /images/header-fiche-presta-fiverr.webp
   altText: Project thumbnail image
+media:
+  type: ImageBlock
+  url: /images/fiverr-1.svg
+  altText: altText of the image
+  caption: Caption of the image
+  elementId: ''
 ---
