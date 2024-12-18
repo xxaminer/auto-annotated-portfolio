@@ -4,7 +4,7 @@ title: Certification en Cybersécurité et Ethical Hacking
 colors: colors-a
 date: '2024-01-23'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/WhatsApp Image 2024-12-15 at 14.47.49.jpeg
