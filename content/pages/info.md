@@ -39,7 +39,7 @@ sections:
       apporter une valeur ajoutée dans chaque projet que j'entreprends.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/WhatsApp Image 2024-12-18 at 16.01.08.jpeg
       altText: Hero image
     styles:
       self:
