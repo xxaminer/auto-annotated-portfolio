@@ -198,7 +198,7 @@ sections:
         label: 'Maitrise de stratégie technique : SMC , PRICE ACTION , ICT .'
         url: ''
   - type: TextSection
-    colors: colors-d
+    colors: colors-a
     variant: variant-b
     title: '-------'
     subtitle: Pourquoi je suis different ?
