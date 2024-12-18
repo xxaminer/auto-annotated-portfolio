@@ -168,11 +168,11 @@ sections:
     variant: variant-a
     title: Réseau
     subtitle: >-
-      Compte rendu de la discussion avec un Software Engineer        Date : 18
-      décembre 2024. Participants : LACHHAB Jihane,ARGAB Amine .         
-      Objectif de la discussion : Échanger sur le rôle de Software Engineer, les
-      technologies utilisées, les méthodologies de travail et les défis du
-      métier.  
+      Compte rendu de la discussion avec un Software
+      Engineer                                  Date : 18 décembre 2024.
+      Participants : LACHHAB Jihane,ARGAB Amine .          Objectif de la
+      discussion : Échanger sur le rôle de Software Engineer, les technologies
+      utilisées, les méthodologies de travail et les défis du métier.   
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
