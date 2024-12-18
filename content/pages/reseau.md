@@ -7,10 +7,10 @@ sections:
     variant: variant-a
     title: Compte rendu de la discussion avec un Software Engineer
     subtitle: >-
-      Date : 18 décembre 2024. Participants : LACHHAB Jihane , ARGAB
+      Date : 18 décembre 2024.  Participants : LACHHAB Jihane , ARGAB
       Amine.                           Objectif de la discussion : Échanger sur
       le rôle de Software Engineer, les technologies utilisées, les
-      méthodologies de travail et les défis du métier.  
+      méthodologies de travail et les défis du métier.     
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
