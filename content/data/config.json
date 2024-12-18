@@ -27,17 +27,17 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "altText": "linkedin",
+                "label": "linkedin",
+                "url": "https://www.linkedin.com/in/amine-argab-3426b7225/",
+                "icon": "linkedin"
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "altText": "Instagram",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/a",
+                "icon": "instagram"
             }
         ],
         "styles": {
