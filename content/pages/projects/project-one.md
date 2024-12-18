@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Système d'éclairage intelligent pour les cyclistes
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: ''
 description: >-
   Concevoir un système d’éclairage pour vélos capable de :     S'adapter
   automatiquement à l'environnement (intensité lumineuse en fonction de la
