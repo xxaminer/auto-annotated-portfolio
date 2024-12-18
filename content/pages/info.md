@@ -173,13 +173,70 @@ sections:
       Participants : LACHHAB Jihane,ARGAB Amine .          Objectif de la
       discussion : Échanger sur le rôle de Software Engineer, les technologies
       utilisées, les méthodologies de travail et les défis du métier.   
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      ### 1. **Présentation du rôle et des responsabilités**
+
+
+      Le Software Engineer a expliqué que son rôle principal consiste à
+      concevoir, développer et maintenir des solutions logicielles adaptées aux
+      besoins des clients. Il a mentionné qu’il travaille principalement dans un
+      environnement agile, en collaboration avec des équipes de développeurs, de
+      chefs de projet et parfois des experts métier. L'accent est mis sur la
+      performance, la scalabilité et la sécurité des applications.
+
+
+      ### 2. **Technologies et outils utilisés**
+
+
+      Il utilise une variété de technologies, notamment Java, Python et
+      JavaScript, en fonction des besoins du projet. Il travaille aussi avec des
+      outils comme Git pour le versioning, Jira pour la gestion des projets, et
+      Jenkins pour l'intégration continue. Les bases de données qu’il utilise
+      sont principalement SQL et NoSQL, et il a également une expérience avec
+      les architectures microservices.
+
+
+      ### 3. **Méthodologie de travail**
+
+
+      Il a expliqué que l'équipe suit une méthodologie agile avec des sprints de
+      2 semaines. Cela permet de livrer des fonctionnalités rapidement,
+      d’obtenir des retours des clients et d’ajuster les priorités.
+      L’intégration continue et le déploiement continu (CI/CD) sont au cœur de
+      leur processus, garantissant des mises à jour régulières et une gestion
+      efficace des versions.
+
+
+      ### 4. **Défis et défis du métier**
+
+
+      Le principal défi auquel il fait face est la gestion des contraintes de
+      performance tout en garantissant une bonne expérience utilisateur. Il a
+      aussi mentionné la nécessité de maintenir un bon équilibre entre la
+      qualité du code et la rapidité de livraison. Un autre défi important est
+      la communication avec les équipes non techniques pour s'assurer que les
+      solutions respectent les besoins fonctionnels.
+
+
+      ### 5. **Conseils pour les aspirants Software Engineers**
+
+
+      Il a recommandé aux aspirants Software Engineers de se concentrer sur la
+      compréhension des concepts fondamentaux de l'informatique et de la
+      programmation. La curiosité et la capacité à apprendre constamment sont
+      des qualités essentielles dans ce métier en constante évolution. Il a
+      également souligné l'importance de la pratique, de travailler sur des
+      projets personnels et de contribuer à des projets open-source.
+
+
+      ### Conclusion
+
+
+      La discussion a permis d’obtenir un aperçu détaillé du rôle de Software
+      Engineer, des technologies utilisées, des défis rencontrés, ainsi que des
+      conseils précieux pour progresser dans ce domaine. Le Software Engineer a
+      insisté sur l'importance d'une veille technologique continue et de la
+      collaboration en équipe pour réussir dans ce métier.
     elementId: ''
     styles:
       self:
