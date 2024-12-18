@@ -4,12 +4,42 @@ title: 'Certification en Trading avec FundedNext '
 colors: colors-a
 date: '2024-10-22'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/WhatsApp Image 2024-12-15 at 14.50.13.jpeg
   altText: Post thumbnail image
 bottomSections:
+  - type: MediaGallerySection
+    title: 'Certificat : '
+    subtitle: ':)'
+    images:
+      - type: ImageBlock
+        url: /images/WhatsApp Image 2024-12-15 at 14.50.13.jpeg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+    colors: colors-a
+    spacing: 106
+    columns: 1
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - elementId: ''
     type: RecentPostsSection
     colors: colors-f
