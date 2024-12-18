@@ -236,17 +236,16 @@ sections:
         text: |+
           **Maintenant**
 
-          *   freelancer sur fiverr
+          *   freelancer sur Fiverr
+          *   trader dans les marchés financiers
 
           **2022-2024**
 
           *   Chef d'equipe à Mcdonald's
 
-          **2021** 
+          **2021**
 
-          *   Stage dévelopeur web chez AT place  
-
-
+          *   Stage dévelopeur web chez AT place
 
         styles:
           self:
