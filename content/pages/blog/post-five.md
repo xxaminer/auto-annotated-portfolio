@@ -21,7 +21,7 @@ bottomSections:
         elementId: ''
     colors: colors-a
     spacing: 16
-    columns: 2
+    columns: 1
     aspectRatio: '4:3'
     showCaption: false
     enableHover: false
