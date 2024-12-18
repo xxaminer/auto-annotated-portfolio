@@ -200,7 +200,7 @@ sections:
   - type: TextSection
     colors: colors-d
     variant: variant-b
-    title: The Section Title
+    title: '-------'
     subtitle: Pourquoi je suis different ?
     text: >
 
